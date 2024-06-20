@@ -17,7 +17,7 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloResplandes&layout=compact&theme=midnight-purple"/>
 </div>
 
-# 📁 Minhas Contribuições
+# 📁 Contribuições
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngeloResplandes/AngeloResplandes/output/github-contribution-grid-snake-dark.svg">
