@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
 
+# 📙 Estudando no Momento
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
 # 📊 GitHub Stats
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AngeloResplandes&show_icons=true&theme=midnight-purple"/>
