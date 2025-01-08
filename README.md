@@ -1,5 +1,5 @@
 # 👋 Olá, sou Angelo Resplandes !
-👩🏻‍💻 Desenvolvimento web!
+👩🏻‍💻 Desenvolvimento web!<br/>
 📚 Cursando Sistemas de Informação - UNIFESSPA<br/>
 💭 Atualmente aprimorando os conhecimentos de back-end e banco de dados<br/>
 
