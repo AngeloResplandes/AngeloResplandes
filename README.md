@@ -1,36 +1,39 @@
-# 👋 Olá, sou Angelo Resplandes !
-👩🏻‍💻 Desenvolvimento web!<br/>
-📚 Cursando Sistemas de Informação - UNIFESSPA<br/>
-💭 Atualmente aprimorando os conhecimentos de back-end e banco de dados<br/>
+# 🧑🏻‍💻 Ângelo Resplandes
 
-# 💻 Linguagens & Tecnologias
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/tailwindcss-38BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</div>
+🎓 Acadêmico de Sistemas de Informação pela Universidade Federal do Sul e 
+Sudeste do Pará, comecei minha carreira na área da tecnologia em 2023, quando 
+iniciei como estagiário na área de telecomunicações e tive a oportunidade de 
+ingressar nesse mundo.
 
-# 📙 Estudando...
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-</div>
+🖥️ Atuo como bolsista no PET-Saúde Digital desde agosto de 2025, programa 
+do Ministério da Saúde com o foco na transformação digital do SUS. Também atuo
+como Desenvolvedor Web voluntário na Exception Jr, empresa júnior de Sistemas 
+de Informação. Durante os meus 2 anos atuando na área de desenvolvimento, 
+tive a oportunidade de criar projetos de software, manutenções de sistemas web,
+desenvolver automatizações de tarefas e etc.
 
-# 📊 GitHub Stats
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AngeloResplandes&show_icons=true&theme=midnight-purple"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloResplandes&layout=compact&theme=midnight-purple"/>
-</div>
+🎯 Meu comprometimento e interesse em tecnologia vão além das linhas de código. 
+Estou sempre em busca de novos aprendizados e disposto a criar novas ideias. 
+Meu objetivo profissional está voltado para ingressar como Engenheiro DevOps 
+e futuramente na efetivação como júnior.
 
-# 📁 Contribuições
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngeloResplandes/AngeloResplandes/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngeloResplandes/AngeloResplandes/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AngeloResplandes/AngeloResplandes/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+### 🤖 Tecnologias e Linguagens
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+
+### ✉️ Onde me encontrar?
+
+<a href="https://www.instagram.com/angelo_resplandes/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)</a>
+<a href="mailto:angeloresplandes1@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/angelo-resplandes/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)</a>
+
+---
