@@ -31,7 +31,6 @@ e futuramente na efetivação como júnior.
 
 ### ✉️ Onde me encontrar?
 
-<a href="https://www.instagram.com/angelo_resplandes/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)</a>
 <a href="mailto:angeloresplandes1@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/angelo-resplandes/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)</a>
 
