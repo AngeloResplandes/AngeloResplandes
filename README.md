@@ -28,7 +28,6 @@ e futuramente na efetivação como júnior.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 
 ### ✉️ Onde me encontrar?
 
