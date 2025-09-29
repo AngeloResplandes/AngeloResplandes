@@ -14,7 +14,7 @@ desenvolver automatizações de tarefas e etc.
 
 🎯 Meu comprometimento e interesse em tecnologia vão além das linhas de código. 
 Estou sempre em busca de novos aprendizados e disposto a criar novas ideias. 
-Meu objetivo profissional está voltado para ingressar como Engenheiro DevOps 
+Meu objetivo profissional está voltado para ingressar como Engenheiro de Software
 e futuramente na efetivação como júnior.
 
 ### 🤖 Tecnologias e Linguagens
