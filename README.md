@@ -1,21 +1,9 @@
 # 🧑🏻‍💻 Ângelo Resplandes
 
-🎓 Acadêmico de Sistemas de Informação pela Universidade Federal do Sul e 
-Sudeste do Pará, comecei minha carreira na área da tecnologia em 2023, quando 
-iniciei como estagiário na área de telecomunicações e tive a oportunidade de 
-ingressar nesse mundo.
-
-🖥️ Atuo como bolsista no PET-Saúde Digital desde agosto de 2025, programa 
-do Ministério da Saúde com o foco na transformação digital do SUS. Também atuo
-como Desenvolvedor Web voluntário na Exception Jr, empresa júnior de Sistemas 
-de Informação. Durante os meus 2 anos atuando na área de desenvolvimento, 
-tive a oportunidade de criar projetos de software, manutenções de sistemas web,
-desenvolver automatizações de tarefas e etc.
-
-🎯 Meu comprometimento e interesse em tecnologia vão além das linhas de código. 
-Estou sempre em busca de novos aprendizados e disposto a criar novas ideias. 
-Meu objetivo profissional está voltado para ingressar como Engenheiro de Software
-e futuramente na efetivação como júnior.
+🖥️ Desenvolvedor Full Stack<br/>
+🎓 Sistemas de Informação - Unifesspa<br/>
+📃 <a href="https://angeloresplandes.com">Portifólio</a><br/>
+📫 <a href="mailto:angeloresplandes1@gmail.com" target="_blank">E-mail</a><br/>
 
 ### 🤖 Tecnologias e Linguagens
 
@@ -29,10 +17,3 @@ e futuramente na efetivação como júnior.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
-
-### ✉️ Onde me encontrar?
-
-<a href="mailto:angeloresplandes1@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/angelo-resplandes/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)</a>
-
----
