@@ -1,4 +1,4 @@
-## Ângelo Resplandes
+## 🧑🏻‍💻 Ângelo Resplandes
 
 🖥️ Desenvolvedor Full Stack<br/>
 🎓 Sistemas de Informação | UNIFESSPA<br/>
