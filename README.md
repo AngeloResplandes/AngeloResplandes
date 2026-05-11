@@ -7,7 +7,7 @@
 
 ### Experiências
 🦎 Diretoria de Projetos | Exception Jr (Jan 2024 - Dez 2025)<br/>
-🩺 Bolsista | PET-SAÚDE: Inovação e Saúde Digital no SUS (Jul 2025 - até o momento)<br/>
+🩺 Desenvolvedor de Software | PET-Saúde Digital (Jul 2025 - até o momento)<br/>
 
 ### Skills
 
