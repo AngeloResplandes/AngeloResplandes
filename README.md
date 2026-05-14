@@ -2,7 +2,6 @@
 
 🖥️ Desenvolvedor Full Stack<br/>
 🎓 Sistemas de Informação | UNIFESSPA<br/>
-📃 <a href="https://angeloresplandes.com" target="_blank">Portifólio</a><br/>
 📫 <a href="mailto:angeloresplandes1@gmail.com" target="_blank">E-mail</a><br/>
 
 ### Experiências
