@@ -3,13 +3,10 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpiY3ZpYTJtbGl4NW91Y3RtOHJ5bjI3MWEwZWpkYXBobjAwZmZodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SaSAUwiGPsPtswfPRk/giphy.gif" width="30" align="middle" alt="Mascote acenando" style="vertical-align: middle;" />
 </h3>
 
-Acadêmico de <strong>Sistemas de Informação</strong> e atuo como <strong>Desenvolvedor de Software</strong>.
-
-Trabalho principalmente no <strong>Desenvolvimento Web</strong> — Frontend, Backend, Banco de Dados e UI Design.
-
-Também possuo conhecimento breve em <strong>Automação com IA</strong>, devido a trabalhos recentes.
-
-Já construí vários projetos como Freelancer. Meu último projeto finalizado foi o <a href="https://unctusacabamentos.com.br/">Unctus Acabamentos</a>.
+Acadêmico de <strong>Sistemas de Informação</strong> e atuo como <strong>Desenvolvedor de Software</strong>.  
+Trabalho principalmente no <strong>Desenvolvimento Web</strong> — Frontend, Backend, Banco de Dados e UI Design.  
+Também possuo conhecimento breve em <strong>Automação com IA</strong>, devido a trabalhos recentes.  
+Já construí vários projetos como Freelancer. Meu último projeto finalizado foi o <a href="https://unctusacabamentos.com.br/">Unctus Acabamentos</a>.  
 
 ### Ferramentas e Tecnologias
 
