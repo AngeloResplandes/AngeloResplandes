@@ -5,7 +5,7 @@
 
 Acadêmico de <strong>Sistemas de Informação</strong> e atuo como <strong>Desenvolvedor de Software</strong>.  
 Trabalho principalmente no <strong>Desenvolvimento Web</strong> — Frontend, Backend, Banco de Dados e UI Design.  
-Também possuo conhecimento breve em <strong>Automação com IA</strong>, devido a trabalhos recentes.  
+Também possuo conhecimento em <strong>Automação com IA</strong>, devido a trabalhos recentes.  
 Já construí vários projetos como Freelancer. Meu último projeto finalizado foi o <a href="https://unctusacabamentos.com.br/">Unctus Acabamentos</a>.  
 
 ### Ferramentas e Tecnologias
