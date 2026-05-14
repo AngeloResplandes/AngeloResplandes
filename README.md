@@ -13,13 +13,13 @@ Já construí vários projetos como Freelancer. Meu último projeto finalizado f
 
 ### Ferramentas e Tecnologias
 
-- Javascript, TypeScript, Python
-- React, TailwindCSS, Next.js
-- Node.js, Express, Nest.js
-- PostgreSQL, MySQL, MongoDB
+💻 JavaScript, TypeScript, Python  
+⚛️ React, TailwindCSS, Next.js  
+🚀 Node.js, Express, Nest.js  
+🎲 PostgreSQL, MySQL, MongoDB
 
 ### Experiências
 
-- 🦎 Desenvolvedor Frontend e Diretoria de Projetos | Exception Jr (Ago 2024 - Dez 2025)
-- 🩺 Desenvolvedor de Software | PET-Saúde Digital (Jul 2025 - até o momento)
-- 🧑🏻‍💻 Desenvolvedor de Software | Freelance (Jan 2026 - até o momento)
+🦎 Desenvolvedor Frontend e Diretoria de Projetos | Exception Jr (Ago 2024 - Dez 2025)  
+🩺 Desenvolvedor de Software | PET-Saúde Digital (Jul 2025 - até o momento)  
+🧑🏻‍💻 Desenvolvedor de Software | Freelance (Jan 2026 - até o momento)  
