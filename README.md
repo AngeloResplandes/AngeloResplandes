@@ -1,24 +1,25 @@
-## 🧑🏻‍💻 Ângelo Resplandes
+<h3>
+  Oi, eu sou Ângelo!
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpiY3ZpYTJtbGl4NW91Y3RtOHJ5bjI3MWEwZWpkYXBobjAwZmZodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SaSAUwiGPsPtswfPRk/giphy.gif" width="20" align="middle" alt="Mascote acenando" style="vertical-align: middle;" />
+</h3>
 
-🖥️ Desenvolvedor Full Stack<br/>
-🎓 Sistemas de Informação | UNIFESSPA<br/>
-📫 <a href="mailto:angeloresplandes1@gmail.com" target="_blank">E-mail</a><br/>
+Acadêmico de <strong>Sistemas de Informação</strong> e atuo como <strong>Desenvolvedor de Software</strong>.
+
+Trabalho principalmente no <strong>Desenvolvimento Web</strong> — Frontend, Backend, Banco de Dados e UI Design.
+
+Também possuo conhecimento breve em <strong>Automação com IA</strong>, devido a trabalhos recentes.
+
+Já construí vários projetos como Freelancer. Meu último projeto finalizado foi o <a href="https://unctusacabamentos.com.br/">Unctus Acabamentos</a>.
+
+### Ferramentas e Tecnologias
+
+- Javascript, TypeScript, Python
+- React, TailwindCSS, Next.js
+- Node.js, Express, Nest.js
+- PostgreSQL, MySQL, MongoDB
 
 ### Experiências
-🦎 Diretoria de Projetos | Exception Jr (Jan 2024 - Dez 2025)<br/>
-🩺 Desenvolvedor de Software | PET-Saúde Digital (Jul 2025 - até o momento)<br/>
 
-### Skills
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/-black?style=flat&logo=react&logoColor=white&color=black" width="60" alt="React" />
-  <img src="https://img.shields.io/badge/-black?style=flat&logo=tailwindcss&logoColor=white&color=black" width="60" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/-black?style=flat&logo=next.js&logoColor=white&color=black" width="60" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-black?style=flat&logo=typescript&logoColor=white&color=black" width="60" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-black?style=flat&logo=node.js&logoColor=white&color=black" width="60" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-black?style=flat&logo=bun&logoColor=white&color=black" width="60" alt="Bun" />
-  <img src="https://img.shields.io/badge/-black?style=flat&logo=hono&logoColor=white&color=black" width="60" alt="Hono" />
-  <img src="https://img.shields.io/badge/-black?style=flat&logo=postgresql&logoColor=white&color=black" width="60" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-black?style=flat&logo=sqlite&logoColor=white&color=black" width="60" alt="SQLite" />
-  <img src="https://img.shields.io/badge/-black?style=flat&logo=cloudflare&logoColor=white&color=black" width="60" alt="Cloudflare" />
-</div>
+- 🦎 Desenvolvedor Frontend e Diretoria de Projetos | Exception Jr (Ago 2024 - Dez 2025)
+- 🩺 Desenvolvedor de Software | PET-Saúde Digital (Jul 2025 - até o momento)
+- 🧑🏻‍💻 Desenvolvedor de Software | Freelance (Jan 2026 - até o momento)
