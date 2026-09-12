@@ -19,4 +19,4 @@ Já construí vários projetos como Freelancer. Meu último projeto finalizado f
 
 🦎 Desenvolvedor Full Stack e Diretoria de Projetos | Exception Jr (Ago 2024 - Dez 2025)  
 🩺 Desenvolvedor de Software | PET-Saúde Digital (Jul 2025 - até o momento)  
-🧑🏻‍💻 Desenvolvedor de Software | Freelance (Jan 2026 - até o momento)  
+🧑🏻‍💻 Analista Júnior | Kaizen Business (Ago 2026 - até o momento)  
